@@ -7,8 +7,7 @@
 <P>
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
   <h2 align="center">ARELY AGUILAR FARIAS M-200559</h2>
-  <h3 align="center">Aplicación de Flutter con modifi</h3>
-  <h5 align="center">Se creó una aplicación de Alexa en la cual se utilizo una API, y con ayuda del API nos mencionaba la temperatura de un lugar de acuerdo a la latitud y longitud que el usuario le definía, al igual se le hicieron los cambios que el docente solicitó que fue agregar la humedad y la hora en que se oculta es sol de acuerdo a cada lugar</h5>
-  <h3 align="center">Fecha de entrega: 14/Julio/2023</h3>
-  <h3 align="center">"Práctica en equipo"</h3>
+  <h3 align="center">Aplicación de Flutter con modificaciones especificas</h3>
+  <h5 align="center">Se creo una APP en Flutter con las modificaciones que pidio el docente, como lo fu eel color y la tipografia</h5>
+  <h3 align="center">Fecha de entrega: 08/Septiembre/2023</h3>
 </P>
